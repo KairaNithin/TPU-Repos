@@ -1,2 +1,3 @@
 # TPU-Repos
-Experimenting with Cloud TPU's
+
+A - File TPU's for larger models sees to work with fairly larger models
